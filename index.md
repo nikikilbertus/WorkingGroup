@@ -1,4 +1,4 @@
-## Welcome to the Helmholtz-TUM-UHH Working Group "Causal Machine Learning
+## Welcome to the Helmholtz-TUM-UHH Working Group "Causal Machine Learning"
 
 The goal of the working group is to promote research on Causal Machine Learning and to foster Causal Machine Learning for applications in both science and industry in Germany and Europe.
 
