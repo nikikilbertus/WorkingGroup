@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome to the Helmholtz-TUM-UHH Working Group "Causal Machine Learning
 
-You can use the [editor on GitHub](https://github.com/MartinSpindler/WorkingGroup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of the working group is to promote research on Causal Machine Learning and to foster Causal Machine Learning for applications in both science and industry.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The group organises joint seminars on topics in Causal Machine Learning with renowned guest speakers, an annual retreat to discuss research ideas, and conferences on this topic. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Members
 
-```markdown
-Syntax highlighted code block
+The working group consists of the following groups:
 
-# Header 1
-## Header 2
-### Header 3
+[Prof. Dr. Niki Kilbertus](https://www.helmholtz.ai/themenmenue/our-research/research-groups/kilbertus-group/index.html)
 
-- Bulleted
-- List
+[Prof. Dr. Helmut Farbmacher](https://www.professoren.tum.de/en/farbmacher-helmut)
 
-1. Numbered
-2. List
+[Prof. Dr. Martin Spindler](https://www.bwl.uni-hamburg.de/statistik/)
 
-**Bold** and _Italic_ and `Code` text
+### Seminars
 
-[Link](url) and ![Image](src)
-```
+Seminar presentations and invited talks from academia and industry will be announced here.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Conferences
 
-### Jekyll Themes
+The group organises the bi-annual conference series "Econometrics in the Castle". The series started in [2018](https://www.mpisoc.mpg.de/veranstaltungen/detail/event/econometrics-in-the-castle-machine-learning-in-economics-and-econometrics/) with Victor Chernozhukov (MIT) and Stefan Wager (Stanford) as keynote speakers, but was interrupted because of Covid. To be continued.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MartinSpindler/WorkingGroup/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Moreover, conferences for the exchange with industry are planned.
 
-### Support or Contact
+### Retreat
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The group has an annual retreat to discuss ongoing research and early research ideas.
+
+### Open positions
+
+Open positions can be found on the website of the members. 
+
+### Contact
+
+If you are interested in the topic of Causal Machine Learning or if you interested in collaborations, please get in touch with us.
+
