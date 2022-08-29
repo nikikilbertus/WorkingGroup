@@ -9,7 +9,7 @@ The group organises joint seminars on topics in Causal Machine Learning with ren
 
 The working group consists of the following groups:
 
-[Prof. Dr. Niki Kilbertus](https://www.helmholtz.ai/themenmenue/our-research/research-groups/kilbertus-group/index.html)
+[Prof. Dr. Niki Kilbertus](https://sites.google.com/view/nikikilbertus)
 
 [Prof. Dr. Helmut Farbmacher](https://www.professoren.tum.de/en/farbmacher-helmut)
 
